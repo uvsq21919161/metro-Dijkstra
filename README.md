@@ -6,4 +6,5 @@ Le but de ce projet est de concevoir une application qui permet de trouver le ch
 Pour exécuter le code, placez-vous d'abord dans le chemin correspondant dans le terminal, puis exécutez le code.
 
 Vous aurez alors accès à cette interface.
+
 ![image](https://user-images.githubusercontent.com/72187742/233806363-da6a15c0-cec5-46e8-b46c-3022d04b7115.png)
